@@ -1,3 +1,5 @@
+# 该代码实际来源https://github.com/lidong1665/springboot-dubbo-seata，自己只是做了本地环境的修改，感谢该小伙伴
+
 ## 1.简介
 >本文主要介绍SpringBoot2.1.5 + Dubbo 2.7.3 + Mybatis 3.4.2 + Nacos 1.1.3 +Seata 0.8.0整合来实现Dubbo分布式事务管理，使用Nacos 作为 Dubbo和Seata的注册中心和配置中心,使用 MySQL 数据库和 MyBatis来操作数据。
 
