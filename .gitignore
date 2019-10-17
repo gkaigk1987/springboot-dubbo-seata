@@ -1,0 +1,11 @@
+/.idea/
+/samples-storage/target/classes/
+/samples-storage/samples-storage.iml
+/samples-order/target/classes/
+/samples-order/samples-order.iml
+/samples-common/target/classes/io/seata/samples/integration/common/
+/samples-common/samples-common.iml
+/samples-business/target/classes/
+/samples-business/samples-business.iml
+/samples-account/samples-account.iml
+/samples-account/target/classes/
